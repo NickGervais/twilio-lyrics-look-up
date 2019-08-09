@@ -11,6 +11,8 @@ Now you know what song you're listening to and you didn't waste any of your phon
 
 **You're welcome (;**
 
+## Demo
+
 ![](demo.gif)
 
 ## Project Details
