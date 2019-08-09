@@ -11,6 +11,8 @@ Now you know what song you're listening to and you didn't waste any of your phon
 
 **You're welcome (;**
 
+![](demo.gif)
+
 ## Project Details
 I am using `Twilio` to recieve and send SMS messages. 
 My Twilio project will get incoming SMS messages then make a POST request to this `Node.js` API's `/sms` endpoint.
