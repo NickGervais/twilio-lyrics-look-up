@@ -28,3 +28,10 @@ This API is being hosted on Google Cloud Platform's App Engine service.
 Here are some of the struggles I had with this project.
 - Verification is limited on Twilio trail accounts.
 - The API `MusixMatch` limits song results and lyrics on trail accounts. This lead to a 70% decrease in available songs.
+
+## References
+`Twilio` webpage https://www.twilio.com/.
+
+`Google Cloud Platform` webpage https://cloud.google.com/.
+
+`MusixMatch` API documentation https://developer.musixmatch.com/.
